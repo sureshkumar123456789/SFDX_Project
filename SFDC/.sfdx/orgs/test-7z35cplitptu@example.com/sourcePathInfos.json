@@ -1,0 +1,257 @@
+[
+    [
+        "c:\\Users\\st34085\\Documents\\SFDX\\SFDX_Project\\SFDC\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\st34085\\Documents\\SFDX\\SFDX_Project\\SFDC\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1545822568506,
+            "changeTime": 1545822568506,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "c:\\Users\\st34085\\Documents\\SFDX\\SFDX_Project\\SFDC\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\st34085\\Documents\\SFDX\\SFDX_Project\\SFDC\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1545822568509,
+            "changeTime": 1545822568509,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\st34085\\Documents\\SFDX\\SFDX_Project\\SFDC\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\st34085\\Documents\\SFDX\\SFDX_Project\\SFDC\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1545824162671,
+            "changeTime": 1545824162671,
+            "contentHash": "4cfd1989fa44dd1a317ae36b127a22da3b8eae1b"
+        }
+    ],
+    [
+        "c:\\Users\\st34085\\Documents\\SFDX\\SFDX_Project\\SFDC\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\st34085\\Documents\\SFDX\\SFDX_Project\\SFDC\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1545822568511,
+            "changeTime": 1545822568511,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\st34085\\Documents\\SFDX\\SFDX_Project\\SFDC",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\st34085\\Documents\\SFDX\\SFDX_Project\\SFDC",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1545822597799,
+            "changeTime": 1545822597799,
+            "contentHash": "829e604d4e7d5aae25f04d899b0bc5eccc598817",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\st34085\\Documents\\SFDX\\SFDX_Project\\SFDC\\force-app\\main\\default\\objects\\Account\\fields\\number__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\st34085\\Documents\\SFDX\\SFDX_Project\\SFDC\\force-app\\main\\default\\objects\\Account\\fields\\number__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 392,
+            "modifiedTime": 1545824162590,
+            "changeTime": 1545824162590,
+            "contentHash": "d0d990a0a26a93708a712fbbbbb4eb104a5b3e53"
+        }
+    ],
+    [
+        "c:\\Users\\st34085\\Documents\\SFDX\\SFDX_Project\\SFDC\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\st34085\\Documents\\SFDX\\SFDX_Project\\SFDC\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9628,
+            "modifiedTime": 1545824162609,
+            "changeTime": 1545824162609,
+            "contentHash": "9789683eeec576b60c8f810538725d8eb453c070"
+        }
+    ],
+    [
+        "c:\\Users\\st34085\\Documents\\SFDX\\SFDX_Project\\SFDC\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\st34085\\Documents\\SFDX\\SFDX_Project\\SFDC\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9580,
+            "modifiedTime": 1545824162629,
+            "changeTime": 1545824162629,
+            "contentHash": "f6df35ccffab9973c299d38f917550f73a1f6306"
+        }
+    ],
+    [
+        "c:\\Users\\st34085\\Documents\\SFDX\\SFDX_Project\\SFDC\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\st34085\\Documents\\SFDX\\SFDX_Project\\SFDC\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9628,
+            "modifiedTime": 1545824162645,
+            "changeTime": 1545824162645,
+            "contentHash": "8270422c95cd6d5996d0dedf204fd601128cd128"
+        }
+    ],
+    [
+        "c:\\Users\\st34085\\Documents\\SFDX\\SFDX_Project\\SFDC\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\st34085\\Documents\\SFDX\\SFDX_Project\\SFDC\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9580,
+            "modifiedTime": 1545824162659,
+            "changeTime": 1545824162659,
+            "contentHash": "54832377bff33134c549b5d4eb319b8f8978db4b"
+        }
+    ],
+    [
+        "c:\\Users\\st34085\\Documents\\SFDX\\SFDX_Project\\SFDC\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\st34085\\Documents\\SFDX\\SFDX_Project\\SFDC\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4586,
+            "modifiedTime": 1545824162675,
+            "changeTime": 1545824162675,
+            "contentHash": "64e79844e47b2cb4e31673c5ebfb723eb28c1687"
+        }
+    ],
+    [
+        "c:\\Users\\st34085\\Documents\\SFDX\\SFDX_Project\\SFDC\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\st34085\\Documents\\SFDX\\SFDX_Project\\SFDC\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4590,
+            "modifiedTime": 1545824162686,
+            "changeTime": 1545824162686,
+            "contentHash": "c91d006bbb6012e68f369a4f5b74df458c30a7bf"
+        }
+    ],
+    [
+        "c:\\Users\\st34085\\Documents\\SFDX\\SFDX_Project\\SFDC\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\st34085\\Documents\\SFDX\\SFDX_Project\\SFDC\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4926,
+            "modifiedTime": 1545824162708,
+            "changeTime": 1545824162708,
+            "contentHash": "0e42f543518adc84aa6ef11ae8301ebda0ea66a5"
+        }
+    ],
+    [
+        "c:\\Users\\st34085\\Documents\\SFDX\\SFDX_Project\\SFDC\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\st34085\\Documents\\SFDX\\SFDX_Project\\SFDC\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 18110,
+            "modifiedTime": 1545824162748,
+            "changeTime": 1545824162748,
+            "contentHash": "506edcaf0675515e2df90d0978d95869f17e51e4"
+        }
+    ],
+    [
+        "c:\\Users\\st34085\\Documents\\SFDX\\SFDX_Project\\SFDC\\force-app\\main\\default\\objects\\Account\\fields",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\st34085\\Documents\\SFDX\\SFDX_Project\\SFDC\\force-app\\main\\default\\objects\\Account\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1545824162589,
+            "changeTime": 1545824162589,
+            "contentHash": "e44bcfb7216008dc45dadf0b2b91a923727e6881"
+        }
+    ],
+    [
+        "c:\\Users\\st34085\\Documents\\SFDX\\SFDX_Project\\SFDC\\force-app\\main\\default\\objects\\Account",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\st34085\\Documents\\SFDX\\SFDX_Project\\SFDC\\force-app\\main\\default\\objects\\Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1545824162579,
+            "changeTime": 1545824162579,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+        }
+    ],
+    [
+        "c:\\Users\\st34085\\Documents\\SFDX\\SFDX_Project\\SFDC\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\st34085\\Documents\\SFDX\\SFDX_Project\\SFDC\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1545824162578,
+            "changeTime": 1545824162578,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+        }
+    ],
+    [
+        "c:\\Users\\st34085\\Documents\\SFDX\\SFDX_Project\\SFDC\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\st34085\\Documents\\SFDX\\SFDX_Project\\SFDC\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1545824162658,
+            "changeTime": 1545824162658,
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0"
+        }
+    ],
+    [
+        "c:\\Users\\st34085\\Documents\\SFDX\\SFDX_Project\\SFDC\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\st34085\\Documents\\SFDX\\SFDX_Project\\SFDC\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1545824162747,
+            "changeTime": 1545824162747,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ]
+]

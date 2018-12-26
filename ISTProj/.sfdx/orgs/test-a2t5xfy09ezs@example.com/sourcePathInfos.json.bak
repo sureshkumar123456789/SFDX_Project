@@ -1,0 +1,227 @@
+[
+    [
+        "c:\\Users\\st34085\\Documents\\SFDX\\SFDX_Project\\ISTProj\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\st34085\\Documents\\SFDX\\SFDX_Project\\ISTProj\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1545829447955,
+            "changeTime": 1545829447955,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "c:\\Users\\st34085\\Documents\\SFDX\\SFDX_Project\\ISTProj\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\st34085\\Documents\\SFDX\\SFDX_Project\\ISTProj\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1545829447956,
+            "changeTime": 1545829447956,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\st34085\\Documents\\SFDX\\SFDX_Project\\ISTProj\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\st34085\\Documents\\SFDX\\SFDX_Project\\ISTProj\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1545832660146,
+            "changeTime": 1545832660146,
+            "contentHash": "5d310bc44f3a90b31fb0c14353e4ebaded2c3701",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\st34085\\Documents\\SFDX\\SFDX_Project\\ISTProj\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\st34085\\Documents\\SFDX\\SFDX_Project\\ISTProj\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1545829447956,
+            "changeTime": 1545829447956,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\st34085\\Documents\\SFDX\\SFDX_Project\\ISTProj\\force-app\\main\\default\\objects",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\st34085\\Documents\\SFDX\\SFDX_Project\\ISTProj\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1545832660152,
+            "changeTime": 1545832660152,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\st34085\\Documents\\SFDX\\SFDX_Project\\ISTProj\\force-app\\main\\default\\objects\\Account",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\st34085\\Documents\\SFDX\\SFDX_Project\\ISTProj\\force-app\\main\\default\\objects\\Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1545832660161,
+            "changeTime": 1545832660161,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\st34085\\Documents\\SFDX\\SFDX_Project\\ISTProj\\force-app\\main\\default\\objects\\Account\\fields",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\st34085\\Documents\\SFDX\\SFDX_Project\\ISTProj\\force-app\\main\\default\\objects\\Account\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1545832785324,
+            "changeTime": 1545832785324,
+            "contentHash": "098668b70f9963c13175c9a59c3caaaadfaf6b53",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\st34085\\Documents\\SFDX\\SFDX_Project\\ISTProj\\force-app\\main\\default\\objects\\Account\\fields\\number1__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\st34085\\Documents\\SFDX\\SFDX_Project\\ISTProj\\force-app\\main\\default\\objects\\Account\\fields\\number1__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 406,
+            "modifiedTime": 1545832751708,
+            "changeTime": 1545832785324,
+            "contentHash": "36480b1b0078e45ce68c2ba057d37189e9a0afbc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\st34085\\Documents\\SFDX\\SFDX_Project\\ISTProj\\force-app\\main\\default\\objects\\Account\\fields\\number__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\st34085\\Documents\\SFDX\\SFDX_Project\\ISTProj\\force-app\\main\\default\\objects\\Account\\fields\\number__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 404,
+            "modifiedTime": 1545831844842,
+            "changeTime": 1545832660179,
+            "contentHash": "9000435e34fdbc6fa9de257608806e920ba1e741",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\st34085\\Documents\\SFDX\\SFDX_Project\\ISTProj\\force-app\\main\\default\\profiles",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\st34085\\Documents\\SFDX\\SFDX_Project\\ISTProj\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1545832660140,
+            "changeTime": 1545832660140,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\st34085\\Documents\\SFDX\\SFDX_Project\\ISTProj\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\st34085\\Documents\\SFDX\\SFDX_Project\\ISTProj\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 18727,
+            "modifiedTime": 1545831844844,
+            "changeTime": 1545832660098,
+            "contentHash": "bb5eecfd92955035f869627377bbe44b1afe5021",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\st34085\\Documents\\SFDX\\SFDX_Project\\ISTProj\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\st34085\\Documents\\SFDX\\SFDX_Project\\ISTProj\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4747,
+            "modifiedTime": 1545831844846,
+            "changeTime": 1545832660112,
+            "contentHash": "4e6c36646d144356086bad866a6fe98ebdccb321",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\st34085\\Documents\\SFDX\\SFDX_Project\\ISTProj\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\st34085\\Documents\\SFDX\\SFDX_Project\\ISTProj\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4743,
+            "modifiedTime": 1545831844851,
+            "changeTime": 1545832660128,
+            "contentHash": "801a647332f7f83d47ab24f59095b32119ca8459",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\st34085\\Documents\\SFDX\\SFDX_Project\\ISTProj\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\st34085\\Documents\\SFDX\\SFDX_Project\\ISTProj\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5095,
+            "modifiedTime": 1545831844853,
+            "changeTime": 1545832660141,
+            "contentHash": "278ec94b7dc71d40e3c508831cc7b20c982d5da7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\st34085\\Documents\\SFDX\\SFDX_Project\\ISTProj",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\st34085\\Documents\\SFDX\\SFDX_Project\\ISTProj",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1545831844791,
+            "changeTime": 1545831844791,
+            "contentHash": "829e604d4e7d5aae25f04d899b0bc5eccc598817",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
